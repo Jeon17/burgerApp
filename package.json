@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jeon17/burger.git"
+    "url": "git+https://github.com/Jeon17/burgerApp.git"
   },
   "author": "John T",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jeon17/burger/issues"
+    "url": "https://github.com/Jeon17/burgerApp/issues"
   },
-  "homepage": "https://github.com/Jeon17/burger#readme",
+  "homepage": "https://github.com/Jeon17/burgerApp#readme",
   "dependencies": {
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
