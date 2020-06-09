@@ -1,0 +1,25 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "name-it-eat-it",
+  "main": "server.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeon17/burger.git"
+  },
+  "author": "John T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeon17/burger/issues"
+  },
+  "homepage": "https://github.com/Jeon17/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "http-server": "^0.12.3",
+    "mysql": "^2.18.1"
+  }
+}
