@@ -1,7 +1,5 @@
-USE burgers_db;
+INSERT INTO burgers (burger_name)
+VALUES ("Baconator"), ("Rodeo"), ("Black & Bleu");
 
-INSERT INTO burgers (burger_name, devoured) 
-VALUES ('Blaq & Bleu', false),VALUES ('Rodeo', false), VALUES ('Veggie', false);
-
-
-
+INSERT INTO burgers (burger_name, devoured)
+VALUES ("Cheesburger", TRUE)
