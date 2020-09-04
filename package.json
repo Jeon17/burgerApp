@@ -9,9 +9,9 @@
   "author": "John T",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "express-handlebars": "^4.0.4",
     "mysql": "^2.18.1"
-  }
+  },
+  "devDependencies": {}
 }
