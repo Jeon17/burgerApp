@@ -1,4 +1,3 @@
-  
 //Dependency
 var orm = require("../config/orm.js");
 
@@ -26,4 +25,5 @@ var burger = {
 };
 
 //Exports burger
-module.exports = burger;
+module.exports = burger;  
+
