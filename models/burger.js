@@ -25,5 +25,5 @@ var burger = {
 };
 
 //Exports burger
-module.exports = burger;  
+module.exports = burger;
 
