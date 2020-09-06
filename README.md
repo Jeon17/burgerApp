@@ -5,5 +5,3 @@ Tech Used
 Burger App was created with MySQL, Handlebars, Node.js and a little bit of CSS.
 
 Link to App:https://calm-oasis-71297.herokuapp.com/burgers 
-
-Alt text
